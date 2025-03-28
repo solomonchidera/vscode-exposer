@@ -95,5 +95,5 @@ export function deactivate() {
         rpc.destroy();
         console.log('Disconnected from Discord');
     }
-    console.log('Extension "discord-file-status" is now deactivated.');
+    console.log('Extension "vscode-exposer" is now deactivated.');
 }
